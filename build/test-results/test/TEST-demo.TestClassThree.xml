@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.TestClassThree" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-16T17:24:13" hostname="Pavlo.Pylypenko" time="0.007">
+  <properties/>
+  <testcase name="pepsi" classname="demo.TestClassThree" time="0.005"/>
+  <testcase name="cola" classname="demo.TestClassThree" time="0.0"/>
+  <testcase name="mars" classname="demo.TestClassThree" time="0.0"/>
+  <testcase name="snickers" classname="demo.TestClassThree" time="0.0"/>
+  <system-out><![CDATA[pepsi()
+cola()
+mars()
+snickers()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
